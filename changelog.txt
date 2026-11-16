@@ -1,0 +1,22 @@
+SqualoAI changelog
+==================
+
+15  Bug report link (GitHub issues) shown in the AI list and in the crash message.
+14  Accepts offers to buy bankrupt competitors (after 5 years in the game, cash only).
+13  Respects the game limit on vehicles per company: no failed purchases and no new
+    routes without room for their vehicles. Yearly report shows free vehicle slots.
+    English settings, readme and GPL v2 license for the first public release.
+12  Higher default limits (60 bus lines, 60 truck routes, 40 air routes, 20 rail lines).
+    More aircraft on busy routes (also when airport rating drops below 60%).
+11  Freight trains (one train per single-track line). Goods, food and water to towns.
+10  No new vehicles on loss-making routes; loss-making routes are reduced to 2 vehicles.
+    Broken roads are rebuilt when a road vehicle reports it is lost.
+9   Aircraft between large, distant towns.
+8   Smaller cash reserve: statues, exclusive rights, funding and loan repayment now work.
+7   Short log with a yearly report every January.
+6   Trucks between industries.
+5   Bus stops grow up to 3 tiles when buses queue.
+4   Bus limit per line and queue detection.
+3   Road searches no longer freeze the AI; shorter first lines.
+2   Faster road pathfinder, start-up diagnosis, company headquarters.
+1   First version: buses between towns and local authority actions.
